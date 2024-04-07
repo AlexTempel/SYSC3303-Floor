@@ -4,7 +4,7 @@ import java.net.SocketException;
 public class Main {
     public static void main(String[] args) {
         int floorPort = 19555;
-        int schedulerPort = 20000;
+        int schedulerPort = 20002;
         InetAddress schedulerIP = InetAddress.getLoopbackAddress();
 
         try {
