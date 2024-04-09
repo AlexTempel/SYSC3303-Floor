@@ -1,5 +1,6 @@
 SYSC 3303 Group 8 Floor Subsystem
-
+Setup instuction: change in main, the floor port, scheduler port, and scheduler address to the correct addresses being used in the system.
+then change the number of floors to amount wanted, in this case 22 and run main.
 File Descriptions:
 Floor.java: data about a floor
 FloorSubsystem.java: Logic for the floor system, used for reading in the input file, parsing the data into timedrequest and request object, then checks request
